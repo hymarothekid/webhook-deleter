@@ -2,7 +2,7 @@
 
 ## Requirements
 
-```pip install requirements``
+```pip install requirements```
 
 ## How to use
 Just do ```python main.py <URL WEBHOOK DISCORD>```
